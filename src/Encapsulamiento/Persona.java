@@ -17,4 +17,9 @@ public class Persona {
         System.out.println("Apellido: " + apellido);
         System.out.println("Edad: " + edad);
     }
+
+	public void mostrarPersona() {
+		// TODO Auto-generated method stub
+		
+	}
 }
